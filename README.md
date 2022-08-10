@@ -1,5 +1,5 @@
 MATRIX
-##########################
+
 
 Read a matrix dimension, and print the matrix filled with consecutive numbers starting from 1 in dart programming
 
